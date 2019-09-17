@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class HazelcastPocApplication
 
 fun main(args: Array<String>) {
-	runApplication<HazelcastPocApplication>(*args)
+    runApplication<HazelcastPocApplication>(*args)
 }
